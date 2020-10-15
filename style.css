@@ -1,0 +1,42 @@
+body
+{
+	background-color: White;
+}
+
+div.header
+{
+	font-family: ARIAL;
+	text-align: center; 
+	background-color: #006a4e;
+	color: White;
+	font-size: 200%;
+	margin:0;
+    padding: 20px 10px;
+}
+
+
+img
+{
+	width: 100%;
+	border: 3px solid green;	
+}
+
+
+div.contact
+{
+	text-align: center;
+	border: 3px solid green;
+	font-size: 150%;
+}
+
+div.footer
+{
+
+	text-align: center; 
+	background-color: #006a4e;
+	color: White;
+	font-size: 100%;
+	margin:0;
+    padding: 20px 10px;
+}
+
